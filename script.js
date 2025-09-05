@@ -1,4 +1,4 @@
-const message = `I don’t even know if you’ll ever read this.\nBut if you do… I just want you to know, I still think about you all the time.\n\nWe both tried. We both cared. But still, I failed to keep you.\n\nI just wonder, if we had met at a different point in life, would the ending have been different?\n\nAnyway, I hope you're doing okay, even though we’re not in each other’s lives anymore. I love you, always.`;
+const message = `Thank you for this chance, love. This time, I'll make everything right.\n\nThis time, instead of words, I'll put everything into actions.\n\nThis time, I'll never break your heart ever again.\n\nI'll fix everything, even if it takes my whole life for you to forgive me. I love you, always.`;
 
 function showLetter() {
   document.getElementById("introText").style.opacity = 0;
@@ -21,5 +21,6 @@ function showLetter() {
     typeWriter();
   }, 600);
 }
+
 
 
